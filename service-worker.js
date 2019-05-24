@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ravenous-Codecademy/precache-manifest.b6d0dce58b358e7ee83934638c685369.js"
+  "/Ravenous-Codecademy/precache-manifest.d07a85b3522a0b29ea664153788a8787.js"
 );
 
 workbox.clientsClaim();
