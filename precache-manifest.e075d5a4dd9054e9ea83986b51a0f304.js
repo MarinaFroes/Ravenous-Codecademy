@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "51a65e8503cb24a78294",
-    "url": "/Ravenous-Codecademy/static/css/main.9160477c.chunk.css"
+    "revision": "4b8ab036d4f61809b38b",
+    "url": "/Ravenous-Codecademy/static/css/main.7d91509c.chunk.css"
   },
   {
-    "revision": "51a65e8503cb24a78294",
-    "url": "/Ravenous-Codecademy/static/js/main.51a65e85.chunk.js"
+    "revision": "4b8ab036d4f61809b38b",
+    "url": "/Ravenous-Codecademy/static/js/main.4b8ab036.chunk.js"
   },
   {
     "revision": "fbfa9ac1c04d6f818c50",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/Ravenous-Codecademy/static/media/background_search_desktop.b1b8fd92.jpg"
   },
   {
-    "revision": "ce181ab2f038d576cc4a41b6f6d6bbd3",
+    "revision": "638090e0656a1ee16b08a0e334d83652",
     "url": "/Ravenous-Codecademy/index.html"
   }
 ];
